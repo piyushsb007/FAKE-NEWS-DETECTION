@@ -1,0 +1,25 @@
+[project]
+name = "news-csv"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "beautifulsoup4>=4.14.3",
+    "huggingface-hub>=1.3.2",
+    "numpy>=2.4.1",
+    "openai>=2.15.0",
+    "pandas>=2.3.3",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+    "scikit-learn>=1.8.0",
+    "streamlit>=1.53.0",
+]
+
+[tool.uv]
+no-build = true
+
+[tool.poetry]
+name = "news-csv"
+version = "0.1.0"
+package-mode = false
