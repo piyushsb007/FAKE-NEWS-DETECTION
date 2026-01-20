@@ -15,4 +15,10 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "streamlit>=1.53.0",
 ]
+[tool.uv]
+no-build = true
+
+[tool.poetry]
+name = "news-csv"
+version = "0.1.0"
 package-mode = false
