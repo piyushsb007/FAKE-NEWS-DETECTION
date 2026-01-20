@@ -109,6 +109,7 @@ This improves model transparency and user trust.
 ### 1️⃣ Clone the Repository
 
 git clone https://github.com/piyushsb007/FAKE-NEWS-DETECTION.git
+
 cd FAKE-NEWS-DETECTION
 
 ---
