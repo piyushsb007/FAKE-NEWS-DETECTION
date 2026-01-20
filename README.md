@@ -6,6 +6,9 @@ This project combines traditional NLP classification with LLM-based reasoning to
 
 ---
 
+🔗 Live Demo: https://fake-news-detection-system-7piyushsb.streamlit.app/ 
+---
+
 ## 🔍 Problem Statement
 
 Fake news spreads rapidly on digital platforms and can mislead users, influence opinions, and cause social harm.
